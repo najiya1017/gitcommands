@@ -10,3 +10,15 @@ adding email
 
 >git config --global user.email"uhfiwuefh@gmail.com"
 
+command for initialising git in pwd
+
+>git init
+
+command for adding all untracked files to staged area
+
+>git add -A 
+
+command for adding staged files to local repository
+
+>git commit -m "commit message"
+
