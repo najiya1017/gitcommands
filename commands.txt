@@ -1,0 +1,12 @@
+list global details
+
+>git config --list
+
+adding user name
+
+>git config --global user.email"Najiya"
+
+adding email
+
+>git config --global user.email"uhfiwuefh@gmail.com"
+
