@@ -22,3 +22,8 @@ command for adding staged files to local repository
 
 >git commit -m "commit message"
 
+
+to know the status of a repository
+
+>git status
+
