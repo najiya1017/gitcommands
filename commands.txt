@@ -27,3 +27,17 @@ to know the status of a repository
 
 >git status
 
+
+to take exact copy from remote workspace to local workspace
+
+>git clone
+
+
+to take changes from remote repository to local repository
+
+>git pull
+
+to sent changes from local repository to remote repository
+
+>git push
+
