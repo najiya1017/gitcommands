@@ -23,6 +23,16 @@ command for adding staged files to local repository
 >git commit -m "commit message"
 
 
+to add GitHub repository
+
+>git remote add origin https://github.com/najiya1017/CSSworks.git
+
+
+to sent changes from local repository to remote repository
+
+>git push origin master
+
+
 to know the status of a repository
 
 >git status
@@ -37,6 +47,36 @@ to take changes from remote repository to local repository
 
 >git pull
 
-to sent changes from local repository to remote repository
 
->git push
+to find branch
+
+>git branch
+
+
+to create new branch
+
+>git branch branchname
+
+
+to change branch
+
+>git checkout branchname
+
+
+to find all the remote added to the repository
+
+>git remote -v
+
+
+to list all the commit
+
+>git log
+
+
+
+to move to a particular commit--->first list all the commit,then copy the commit id.
+
+>git checkout commit_id
+       to return back to the latest commit-->git checkout branchname
+
+
