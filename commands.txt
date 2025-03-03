@@ -33,7 +33,7 @@ to sent changes from local repository to remote repository
 >git push origin master
 
 
-to know the status of a repository
+to list all untracked files,
 
 >git status
 
