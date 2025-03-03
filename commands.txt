@@ -89,5 +89,3 @@ to add current changes to other location which is buffer
 
 >git stash
      commonly used when conflict arises.
-
-line from local repository
