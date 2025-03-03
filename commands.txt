@@ -85,3 +85,7 @@ to move to a particular commit--->first list all the commit,then copy the commit
        to return back to the latest commit-->git checkout branchname
 
 
+to add current changes to other location which is buffer
+
+>git stash
+     commonly used when conflict arises.
