@@ -45,7 +45,7 @@ to take exact copy from remote workspace to local workspace
 
 to take changes from remote repository to local repository
 
->git pull
+>git pull remote_name branch_name
 
 
 to find branch
@@ -61,6 +61,11 @@ to create new branch
 to change branch
 
 >git checkout branchname
+
+
+to merge current branch to another branch
+
+>git merge another_branch_name
 
 
 to find all the remote added to the repository
